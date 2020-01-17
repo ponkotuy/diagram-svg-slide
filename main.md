@@ -79,3 +79,10 @@ text.attr({'font-size': 20});
 - JSON手書きはつらかった
 - Google SpreadsheetからJSONを生成
 - Webに移行した方が良さそう
+
+---
+
+## まとめ
+- 新しい鉄道ダイヤ表現方法の提唱
+- TypeScriptでSVGレンダリング
+- Gistで成果物出せるフロント良き
