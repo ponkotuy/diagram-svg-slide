@@ -1,4 +1,4 @@
-# TypeScriptでダイヤの可視化
+# TSでダイヤの可視化
 
 ---
 
@@ -13,6 +13,7 @@
 ## やったこと
 - 鉄道ダイヤを可視化するツールを作った
 - JSONからSVGを生成する
+- https://ponkotuy.github.io/diagram-svg/menu.html
 
 ---
 
@@ -45,7 +46,7 @@
 - Webpackでビルド
 - browser-syncでデバッグ
   - CORS対策
-- Gistで公開
+- GithubPagesで公開
 - Python製ツール
 
 ---
@@ -84,4 +85,4 @@ text.attr({'font-size': 20});
 ## まとめ
 - 新しい鉄道ダイヤ表現方法の提唱
 - TypeScriptでSVGレンダリング
-- Gistで成果物出せるフロント良き
+- GitHubPagesで成果物出せるフロント良き
